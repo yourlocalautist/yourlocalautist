@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**yourlocalautist/yourlocalautist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float="left">
+  <img src="images/image3.jpg" width="250" align="left">
+  <p float="left">
+    <samp>
+      haiiiiii, im sherk | 15 | she/they/it
+      <br>
+      <br>
+      me like music, linux and stuff :3
+      <br>
+      <br>
+      <spotify>no song is currently playing D:</spotify>
+    </samp>
+  </p>
+</p>
