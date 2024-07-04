@@ -8,7 +8,6 @@
       me like music, linux and stuff :3
       <br>
       <br>
-      <spotify>no song is currently playing D:</spotify>
     </samp>
   </p>
 </p>
